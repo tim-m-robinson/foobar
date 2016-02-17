@@ -1,0 +1,23 @@
+[
+  {
+    "event_date_iso8601":"2016-02-10T19:29:21+00:00",
+    "duration_sec":"3600",
+    "event_desc":"Timeo Danaos et dona ferentes",
+    "event_title":"Test Event",
+    "location":"Troy"
+  },
+  {
+    "event_date_iso8601":"2016-02-14T12:00:00+00:00",
+    "duration_sec":"3600",
+    "event_desc":"Romantic lunch",
+    "event_title":"Valentine's Day",
+    "location":"Claridges"
+  },
+  {
+    "event_date_iso8601":"2016-02-27T08:30:21+00:00",
+    "duration_sec":"3600",
+    "event_desc":"It's martini time",
+    "event_title":"My Birthday",
+    "location":"Home"
+  }
+]
